@@ -1,1 +1,0 @@
-alert("Belajar penulisan Javascript");
